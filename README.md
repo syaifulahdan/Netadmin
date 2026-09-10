@@ -3,7 +3,7 @@
 <b>Tabel Of Content</b>
 |Chapter| Section | Sub-Section | Action |
 | --- | --- | --- | --- |
-| <p align="center">1</p> | <b>Network Administration Tools</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| <p align="center">1</p> | <b>Network Administration Tools</b> |Network Administration Tools, Updating paket, serta pemeriksaan service yang berjalan pada server | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | <p align="center">2</p> | <b>Domain Name System (DNS)</b> |Introduction to Attack Techniques, Anatomy of Hacking, Scanning Theory, Scanning Exercise - NMAP, Understandig Scan Results,  Exercise : Enumaration| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/2_Network_Attack/Network_Attack_Netsec.md) |
 | <p align="center">3</p> | <b>Proxy Server</b> |Password Craching Techniques, Dictionary Attack, Brute Force Attack, Wordlist, Exercise : Cracking Password Exercise| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/3_Password_Security/Password_Security_Netsec.md) |
 | <p align="center">4</p> | <b>Remote Access Server (Telnet & SSH Server)</b> | Sniffing Technique, ARP Spoofing, DDoS, Sniffing Practice, Practice: Vulnerability Scanning | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
