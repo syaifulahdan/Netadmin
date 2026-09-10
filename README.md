@@ -13,7 +13,7 @@
 | <p align="center">8</p> | <b>Network Information Service (NIS)</b> | Installation, NIS domain configuration, user synchronization, and NIS server testing.| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | <p align="center">9</p> | <b>Samba Server</b> | Installation, shared directory configuration, Samba user creation, and Samba server testing. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | <p align="center">10</p> | <b>Mail Server</b> | Mail server installation and configuration, as well as testing of email sending and receiving. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| <p align="center">11</p> | <b>Web Server</b> | Security System Design,Hardening | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| <p align="center">11</p> | <b>Web Server</b> | Installation, Virtual Host configuration, web directory setup, and Web Server (Apache) testing. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | <p align="center">12</p> | <b>NAT & Firewall</b> |Introduction Malware, Malware Analysis Techniques, Practice 1: Malware Analysis, Practice 2: Reverse Engineering | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 
 <!--  contoh menghilangkan teks  -->
